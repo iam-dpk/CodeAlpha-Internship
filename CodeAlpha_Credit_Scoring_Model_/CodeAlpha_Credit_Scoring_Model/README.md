@@ -130,6 +130,11 @@ Actual Bad         30    30
 
 ---
 
+<img width="1393" height="833" alt="Screenshot 2026-10-03 015100" src="https://github.com/user-attachments/assets/e50b52ad-acd5-4862-8de2-130da25a207a" />
+<img width="1347" height="815" alt="Screenshot 2026-10-03 015044" src="https://github.com/user-attachments/assets/704a00c5-5745-40af-ad4f-56442a75085e" />
+
+
+
 ## 📁 Project Structure
 
 ```text

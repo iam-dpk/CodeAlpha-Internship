@@ -199,7 +199,7 @@ This project is for **educational and portfolio purposes**. It is not a producti
 
 ## 👨‍💻 Author
 
-**Dipak Kumar**  
+**Deepak Kumar Shukla**  
 B.Tech — Artificial Intelligence & Machine Learning
 
 ---
